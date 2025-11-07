@@ -27,5 +27,5 @@ A **real-time Rubik’s Cube solving system** using **computer vision and algori
 	```
 	
 
-=======
+
 
