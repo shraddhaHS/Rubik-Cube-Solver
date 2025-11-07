@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # Rubik's Cube Solver
 
 A **real-time Rubik’s Cube solving system** using **computer vision and algorithmic logic**. This project detects all cube stickers via a webcam feed, calculates the optimal sequence of moves using the **Kociemba algorithm**, and provides **augmented visual guidance** to solve the cube automatically.
@@ -27,3 +28,6 @@ A **real-time Rubik’s Cube solving system** using **computer vision and algori
 	```
 	
 
+=======
+# Rubik-Cube-Solver
+>>>>>>> 31b63d93c8426a07a311259e8ef8a6cac1eede0d
